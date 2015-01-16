@@ -11,7 +11,7 @@ def mean(vals):
     return total/length
 
 def median(vals):
-    """please implement this function"""
+    """please implement this function, it's awesome"""
     def median(vals):
     vals.sort()
     z = len(vals)
